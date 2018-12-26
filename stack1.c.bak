@@ -1,8 +1,3 @@
-<<<<<<< HEAD
-#파일내용 수정
-=======
-// 병합
->>>>>>> Branch_9662d81
 #include <stdlib.h>
 #include <unistd.h>
 #include <stdio.h>
